@@ -1,0 +1,11 @@
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\bin\Debug\netcoreapp2.0\Rover.deps.json
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\bin\Debug\netcoreapp2.0\Rover.runtimeconfig.json
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\bin\Debug\netcoreapp2.0\Rover.runtimeconfig.dev.json
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\bin\Debug\netcoreapp2.0\Rover.dll
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\bin\Debug\netcoreapp2.0\Rover.pdb
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.csprojResolveAssemblyReference.cache
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.csproj.CoreCompileInputs.cache
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.AssemblyInfoInputs.cache
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.AssemblyInfo.cs
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.dll
+c:\users\ruan\documents\visual studio 2017\Projects\Rover\Rover\obj\Debug\netcoreapp2.0\Rover.pdb
