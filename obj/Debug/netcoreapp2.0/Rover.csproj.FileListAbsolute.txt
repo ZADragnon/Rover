@@ -1,0 +1,11 @@
+E:\Rover\bin\Debug\netcoreapp2.0\Rover.deps.json
+E:\Rover\bin\Debug\netcoreapp2.0\Rover.runtimeconfig.json
+E:\Rover\bin\Debug\netcoreapp2.0\Rover.runtimeconfig.dev.json
+E:\Rover\bin\Debug\netcoreapp2.0\Rover.dll
+E:\Rover\bin\Debug\netcoreapp2.0\Rover.pdb
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.csprojAssemblyReference.cache
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.csproj.CoreCompileInputs.cache
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.AssemblyInfoInputs.cache
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.AssemblyInfo.cs
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.dll
+E:\Rover\obj\Debug\netcoreapp2.0\Rover.pdb
